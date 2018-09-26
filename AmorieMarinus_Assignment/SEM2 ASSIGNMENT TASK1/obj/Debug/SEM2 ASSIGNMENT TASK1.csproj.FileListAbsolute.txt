@@ -1,0 +1,40 @@
+C:\Users\User\Documents\University\SEMESTER 2\GADE\SEM2 ASSIGNMENT TASK1\SEM2 ASSIGNMENT TASK1\bin\Debug\SEM2 ASSIGNMENT TASK1.exe.config
+C:\Users\User\Documents\University\SEMESTER 2\GADE\SEM2 ASSIGNMENT TASK1\SEM2 ASSIGNMENT TASK1\bin\Debug\SEM2 ASSIGNMENT TASK1.exe
+C:\Users\User\Documents\University\SEMESTER 2\GADE\SEM2 ASSIGNMENT TASK1\SEM2 ASSIGNMENT TASK1\bin\Debug\SEM2 ASSIGNMENT TASK1.pdb
+C:\Users\User\Documents\University\SEMESTER 2\GADE\SEM2 ASSIGNMENT TASK1\SEM2 ASSIGNMENT TASK1\obj\Debug\SEM2 ASSIGNMENT TASK1.csprojResolveAssemblyReference.cache
+C:\Users\User\Documents\University\SEMESTER 2\GADE\SEM2 ASSIGNMENT TASK1\SEM2 ASSIGNMENT TASK1\obj\Debug\SEM2_ASSIGNMENT_TASK1.Properties.Resources.resources
+C:\Users\User\Documents\University\SEMESTER 2\GADE\SEM2 ASSIGNMENT TASK1\SEM2 ASSIGNMENT TASK1\obj\Debug\SEM2 ASSIGNMENT TASK1.csproj.GenerateResource.Cache
+C:\Users\User\Documents\University\SEMESTER 2\GADE\SEM2 ASSIGNMENT TASK1\SEM2 ASSIGNMENT TASK1\obj\Debug\SEM2 ASSIGNMENT TASK1.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\University\SEMESTER 2\GADE\SEM2 ASSIGNMENT TASK1\SEM2 ASSIGNMENT TASK1\obj\Debug\SEM2 ASSIGNMENT TASK1.exe
+C:\Users\User\Documents\University\SEMESTER 2\GADE\SEM2 ASSIGNMENT TASK1\SEM2 ASSIGNMENT TASK1\obj\Debug\SEM2 ASSIGNMENT TASK1.pdb
+C:\Users\User\Documents\University\SEMESTER 2\GADE\SEM2 ASSIGNMENT TASK1\SEM2 ASSIGNMENT TASK1\obj\Debug\SEM2_ASSIGNMENT_TASK1.rtsGame.resources
+C:\Users\User\Documents\University\SEMESTER 2\GADE\AmorieMarinus_Assignment\SEM2 ASSIGNMENT TASK1\bin\Debug\SEM2 ASSIGNMENT TASK1.exe.config
+C:\Users\User\Documents\University\SEMESTER 2\GADE\AmorieMarinus_Assignment\SEM2 ASSIGNMENT TASK1\bin\Debug\SEM2 ASSIGNMENT TASK1.exe
+C:\Users\User\Documents\University\SEMESTER 2\GADE\AmorieMarinus_Assignment\SEM2 ASSIGNMENT TASK1\bin\Debug\SEM2 ASSIGNMENT TASK1.pdb
+C:\Users\User\Documents\University\SEMESTER 2\GADE\AmorieMarinus_Assignment\SEM2 ASSIGNMENT TASK1\obj\Debug\SEM2 ASSIGNMENT TASK1.csprojResolveAssemblyReference.cache
+C:\Users\User\Documents\University\SEMESTER 2\GADE\AmorieMarinus_Assignment\SEM2 ASSIGNMENT TASK1\obj\Debug\SEM2_ASSIGNMENT_TASK1.rtsGame.resources
+C:\Users\User\Documents\University\SEMESTER 2\GADE\AmorieMarinus_Assignment\SEM2 ASSIGNMENT TASK1\obj\Debug\SEM2_ASSIGNMENT_TASK1.Properties.Resources.resources
+C:\Users\User\Documents\University\SEMESTER 2\GADE\AmorieMarinus_Assignment\SEM2 ASSIGNMENT TASK1\obj\Debug\SEM2 ASSIGNMENT TASK1.csproj.GenerateResource.Cache
+C:\Users\User\Documents\University\SEMESTER 2\GADE\AmorieMarinus_Assignment\SEM2 ASSIGNMENT TASK1\obj\Debug\SEM2 ASSIGNMENT TASK1.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\University\SEMESTER 2\GADE\AmorieMarinus_Assignment\SEM2 ASSIGNMENT TASK1\obj\Debug\SEM2 ASSIGNMENT TASK1.exe
+C:\Users\User\Documents\University\SEMESTER 2\GADE\AmorieMarinus_Assignment\SEM2 ASSIGNMENT TASK1\obj\Debug\SEM2 ASSIGNMENT TASK1.pdb
+E:\bleh\AmorieMarinus_Assignment\SEM2 ASSIGNMENT TASK1\bin\Debug\SEM2 ASSIGNMENT TASK1.exe.config
+E:\bleh\AmorieMarinus_Assignment\SEM2 ASSIGNMENT TASK1\bin\Debug\SEM2 ASSIGNMENT TASK1.exe
+E:\bleh\AmorieMarinus_Assignment\SEM2 ASSIGNMENT TASK1\bin\Debug\SEM2 ASSIGNMENT TASK1.pdb
+E:\bleh\AmorieMarinus_Assignment\SEM2 ASSIGNMENT TASK1\obj\Debug\SEM2_ASSIGNMENT_TASK1.rtsGame.resources
+E:\bleh\AmorieMarinus_Assignment\SEM2 ASSIGNMENT TASK1\obj\Debug\SEM2_ASSIGNMENT_TASK1.Properties.Resources.resources
+E:\bleh\AmorieMarinus_Assignment\SEM2 ASSIGNMENT TASK1\obj\Debug\SEM2 ASSIGNMENT TASK1.csproj.GenerateResource.Cache
+E:\bleh\AmorieMarinus_Assignment\SEM2 ASSIGNMENT TASK1\obj\Debug\SEM2 ASSIGNMENT TASK1.csproj.CoreCompileInputs.cache
+E:\bleh\AmorieMarinus_Assignment\SEM2 ASSIGNMENT TASK1\obj\Debug\SEM2 ASSIGNMENT TASK1.exe
+E:\bleh\AmorieMarinus_Assignment\SEM2 ASSIGNMENT TASK1\obj\Debug\SEM2 ASSIGNMENT TASK1.pdb
+E:\bleh\AmorieMarinus_Assignment\SEM2 ASSIGNMENT TASK1\obj\Debug\SEM2 ASSIGNMENT TASK1.csprojAssemblyReference.cache
+C:\Users\User\Desktop\bleh\AmorieMarinus_Assignment\SEM2 ASSIGNMENT TASK1\bin\Debug\SEM2 ASSIGNMENT TASK1.exe.config
+C:\Users\User\Desktop\bleh\AmorieMarinus_Assignment\SEM2 ASSIGNMENT TASK1\bin\Debug\SEM2 ASSIGNMENT TASK1.exe
+C:\Users\User\Desktop\bleh\AmorieMarinus_Assignment\SEM2 ASSIGNMENT TASK1\bin\Debug\SEM2 ASSIGNMENT TASK1.pdb
+C:\Users\User\Desktop\bleh\AmorieMarinus_Assignment\SEM2 ASSIGNMENT TASK1\obj\Debug\SEM2_ASSIGNMENT_TASK1.rtsGame.resources
+C:\Users\User\Desktop\bleh\AmorieMarinus_Assignment\SEM2 ASSIGNMENT TASK1\obj\Debug\SEM2_ASSIGNMENT_TASK1.Properties.Resources.resources
+C:\Users\User\Desktop\bleh\AmorieMarinus_Assignment\SEM2 ASSIGNMENT TASK1\obj\Debug\SEM2 ASSIGNMENT TASK1.csproj.GenerateResource.Cache
+C:\Users\User\Desktop\bleh\AmorieMarinus_Assignment\SEM2 ASSIGNMENT TASK1\obj\Debug\SEM2 ASSIGNMENT TASK1.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\bleh\AmorieMarinus_Assignment\SEM2 ASSIGNMENT TASK1\obj\Debug\SEM2 ASSIGNMENT TASK1.exe
+C:\Users\User\Desktop\bleh\AmorieMarinus_Assignment\SEM2 ASSIGNMENT TASK1\obj\Debug\SEM2 ASSIGNMENT TASK1.pdb
+C:\Users\User\Desktop\bleh\AmorieMarinus_Assignment\SEM2 ASSIGNMENT TASK1\obj\Debug\SEM2 ASSIGNMENT TASK1.csprojResolveAssemblyReference.cache
